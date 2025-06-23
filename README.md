@@ -54,12 +54,12 @@ How to Run
 2. Compile all files:
 
 ```bash
-javac *.java
+    javac *.java
 
 3.Run the game:
 
 ```bash
-java game
+    java game
 
 Concepts Used :
 Inheritance and Abstract Classes
