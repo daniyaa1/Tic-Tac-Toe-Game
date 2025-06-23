@@ -14,6 +14,25 @@ This is a simple console-based **Tic Tac Toe** game implemented in **Java**, whe
 - Clear board display after every move
 - Object-Oriented Design using Java classes
 
+
+Concepts Used :
+Inheritance and Abstract Classes
+
+Static Methods and Variables
+
+User Input Handling (Scanner)
+
+Random Number Generation (AI)
+
+Control Loops and Conditions
+
+
+Screenshots of the game:
+![Screenshot 2025-06-23 220548](https://github.com/user-attachments/assets/6876d6da-497b-4a6c-959d-345aeca677f5)
+![Screenshot 2025-06-23 220523](https://github.com/user-attachments/assets/de44235b-bc0d-4b40-bcb4-b063103034dd)
+
+
+
 ---
 
 ## 🧩 Game Classes
@@ -60,20 +79,4 @@ How to Run
 
 ```bash
     java game
-
-Concepts Used :
-Inheritance and Abstract Classes
-
-Static Methods and Variables
-
-User Input Handling (Scanner)
-
-Random Number Generation (AI)
-
-Control Loops and Conditions
-
-
-Screenshots of the game:
-![Screenshot 2025-06-23 220548](https://github.com/user-attachments/assets/6876d6da-497b-4a6c-959d-345aeca677f5)
-![Screenshot 2025-06-23 220523](https://github.com/user-attachments/assets/de44235b-bc0d-4b40-bcb4-b063103034dd)
 
